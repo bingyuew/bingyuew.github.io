@@ -2,9 +2,6 @@
 permalink: /awards/
 title: "Honors, Awards, and Grants"
 author_profile: true
-redirect_from: 
-  - /awards/
-  - /awards.html
 ---
 
 
