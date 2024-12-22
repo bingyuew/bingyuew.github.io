@@ -14,6 +14,6 @@ I received my M.S. in Electrical Engineering in 2023 from National Taiwan Univer
 
 My main research areas are:
 
-Machine learning-based EDA and VLSI physical design
-Generative methods and reinforcement learning for EDA
-Development of open-source tools and datasets for ML-EDA integration
+* Machine learning-based EDA and VLSI physical design
+* Generative methods and reinforcement learning for EDA
+* Development of open-source tools and datasets for ML-EDA integration
