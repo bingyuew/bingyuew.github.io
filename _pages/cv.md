@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /files/CV.pdf
+permalink: /cv/
 ---
 <meta charset="utf-8">
 <title>Redirecting to CV</title>
