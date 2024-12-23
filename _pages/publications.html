@@ -13,9 +13,9 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% assign counter = 1 %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
+    {% assign counter = 1 %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
