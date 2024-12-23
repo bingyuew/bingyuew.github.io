@@ -24,24 +24,32 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      <div class="publication-number">{{ counter }}.</div>
-      {% include archive-single.html %}
+      <div class="publication-entry">
+        <span class="publication-number">{{ counter }}.</span>
+        {% include archive-single.html %}
+      </div>
       {% assign counter = counter | plus: 1 %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% assign counter = 1 %}
   {% for post in site.publications reversed %}
-    <div class="publication-number">{{ counter }}.</div>
-    {% include archive-single.html %}
+    <div class="publication-entry">
+      <span class="publication-number">{{ counter }}.</span>
+      {% include archive-single.html %}
+    </div>
     {% assign counter = counter | plus: 1 %}
   {% endfor %}
 {% endif %}
 
 <style>
+.publication-entry {
+  display: flex;
+  align-items: flex-start;
+}
 .publication-number {
-  float: left;
   margin-right: 10px;
   font-weight: bold;
+  flex-shrink: 0;
 }
 </style>
