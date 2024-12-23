@@ -13,6 +13,7 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
+  {% assign counter = 1 %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -23,14 +24,24 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
+      <div class="publication-number">{{ counter }}.</div>
       {% include archive-single.html %}
+      {% assign counter = counter | plus: 1 %}
     {% endfor %}
   {% endfor %}
 {% else %}
+  {% assign counter = 1 %}
   {% for post in site.publications reversed %}
+    <div class="publication-number">{{ counter }}.</div>
     {% include archive-single.html %}
+    {% assign counter = counter | plus: 1 %}
   {% endfor %}
 {% endif %}
 
-
-
+<style>
+.publication-number {
+  float: left;
+  margin-right: 10px;
+  font-weight: bold;
+}
+</style>
