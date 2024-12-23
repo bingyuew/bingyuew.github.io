@@ -21,11 +21,11 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2>{{ counter }}. {{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       <div class="publication-entry">
-        <span class="publication-number">{{ counter }}.</span> {% include archive-single.html %}
+        {% include archive-single.html %}
       </div>
       {% assign counter = counter | plus: 1 %}
     {% endfor %}
