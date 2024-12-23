@@ -21,11 +21,19 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ counter }}. {{ category[1].title }}</h2><hr />
+        <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       <div class="publication-entry">
-        {% include archive-single.html %}
+        {% assign post_title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+        <h3 class="archive__item-title" itemprop="headline">
+          <span class="publication-number">{{ counter }}.</span> 
+          {% if post.link %}
+            <a href="{{ post.link }}">{{ post_title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post_title }}</a>
+          {% endif %}
+        </h3>
       </div>
       {% assign counter = counter | plus: 1 %}
     {% endfor %}
@@ -34,7 +42,15 @@ author_profile: true
   {% assign counter = 1 %}
   {% for post in site.publications reversed %}
     <div class="publication-entry">
-      <span class="publication-number">{{ counter }}.</span> {% include archive-single.html %}
+      {% assign post_title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+      <h3 class="archive__item-title" itemprop="headline">
+        <span class="publication-number">{{ counter }}.</span> 
+        {% if post.link %}
+          <a href="{{ post.link }}">{{ post_title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post_title }}</a>
+        {% endif %}
+      </h3>
     </div>
     {% assign counter = counter | plus: 1 %}
   {% endfor %}
