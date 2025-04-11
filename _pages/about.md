@@ -16,6 +16,5 @@ I am a recipient of several awards, including the Best Paper Award at MLCAD, the
 
 My main research areas are:
 
-* Machine learning-based EDA solutions, particularly in physical design
-* Applications of language models in EDA
+* Generative AI-based EDA enablement and solutions, particularly in physical design
 * Open-source EDA tools
