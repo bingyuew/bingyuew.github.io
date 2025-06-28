@@ -9,6 +9,8 @@ redirect_from:
 
 Hi! I'm Bing-Yue Wu (吳秉曜), and you can call me Bing. I am currently a Ph.D. student in the [School of Electrical, Computer and Energy Engineering at Arizona State University](https://ecee.engineering.asu.edu/), advised by Dr. [Vidya A. Chhabria](https://faculty.engineering.asu.edu/vidyachhabria/). My research interests include **generative AI-based EDA enablement and solutions**, **large language model-powered EDA solutions**, and **open-source EDA tools**.
 
+For detailed descriptions: [CV (as of June, 2025)](https://bingyuew.github.io/files/CV.pdf)
+
 # Recent News
 
 [Jun., 2025] Our paper "OpenROAD Agent: An Intelligent Self-Correcting Script Generator for OpenROAD" was presented at [ICLAD 2025](https://iclad.ai/)!
