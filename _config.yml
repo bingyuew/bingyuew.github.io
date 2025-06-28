@@ -218,13 +218,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  awards:
+  honors and professional activities:
     output: true
     permalink: /:collection/:path/
-  experience:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  work experience:
     output: true
     permalink: /:collection/:path/
   projects:
