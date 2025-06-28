@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at ASU, specializing in Generative AI-based EDA solutions and Large Language Models-powered EDA solutions."
   location         : "Arizona, USA"
-  employer         : # "Arizona State University"
+  employer         : #"Arizona State University"
   uri              : # URL
   email            : "bingyuew@asu.edu" 
 
@@ -218,10 +218,13 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  honors and professional activities:
+  awards:
     output: true
     permalink: /:collection/:path/
-  work experience:
+  experience:
+    output: true
+    permalink: /:collection/:path/
+  talks:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -279,7 +282,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: honors and professional activities
+      type: talks
     values:
       layout: talk
       author_profile: true
@@ -287,7 +290,15 @@ defaults:
   # _experience
   - scope:
       path: ""
-      type: workexperience
+      type: experience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _awards
+  - scope:
+      path: ""
+      type: awards
     values:
       layout: single
       author_profile: true

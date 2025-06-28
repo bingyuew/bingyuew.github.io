@@ -8,14 +8,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Honors and Professional Activities"
+    url: /honors-and-professional-activities/    
     
   - title: "CV"
     url: /files/CV.pdf
 
-  - title: "Experience"
-    url: /experience/
+  - title: "Work Experience"
+    url: /work-experience/
 
   - title: "Awards"
     url: /awards/
