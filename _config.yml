@@ -279,7 +279,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: honors and professional activities
     values:
       layout: talk
       author_profile: true
@@ -287,15 +287,7 @@ defaults:
   # _experience
   - scope:
       path: ""
-      type: experience
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _awards
-  - scope:
-      path: ""
-      type: awards
+      type: workexperience
     values:
       layout: single
       author_profile: true
