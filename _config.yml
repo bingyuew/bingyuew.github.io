@@ -252,15 +252,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -291,14 +282,6 @@ defaults:
   - scope:
       path: ""
       type: experience
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _awards
-  - scope:
-      path: ""
-      type: awards
     values:
       layout: single
       author_profile: true
