@@ -1,20 +1,29 @@
 ---
 permalink: /
-title: "Biography"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I'm Bing-Yue Wu (吳秉曜), you can call me Bing. I am currently a second-year Ph.D. student in the [School of Electrical, Computer and Energy Engineering at Arizona State University](https://ecee.engineering.asu.edu/), advised by Dr. [Vidya A. Chhabria](https://www.linkedin.com/in/vidya-chhabria/).
+Hi! I'm Bing-Yue Wu (吳秉曜), and you can call me Bing. I am currently a Ph.D. student in the [School of Electrical, Computer and Energy Engineering at Arizona State University](https://ecee.engineering.asu.edu/), advised by Dr. [Vidya A. Chhabria](https://faculty.engineering.asu.edu/vidyachhabria/). My research interests include **generative AI-based EDA enablement and solutions**, **large language model-powered EDA solutions**, and **open-source EDA tools**.
 
-I received my M.S. in Electrical Engineering in 2023 from the [National Taiwan University of Science and Technology (Taiwan Tech)](https://www.ntust.edu.tw/?Lang=en), where I was advised by Dr. [Shao-Yun Fang](https://www.linkedin.com/in/shao-yun-fang-3278b5131/). I also received my B.S. in Electrical Engineering with a minor in Computer Science and Information Engineering in 2020 from Taiwan Tech.
+#**Recent News**
+[Jun., 2025] Our paper "OpenROAD Agent: An Intelligent Self-Correcting Script Generator for OpenROAD" is presented at [ICLAD 2025](https://iclad.ai/)!
+[Oct., 2024] I served as topic chair and presented the award for [the CAD Contest at ICCAD](https://www.iccad-contest.org/2024/) at ICCAD in Newark, NJ!
+[Sep., 2024] Our paper ["OpenROAD-Assistant: An Open-Source Large Language Model for Physical Design Tasks"](https://ieeexplore.ieee.org/document/10740242) is presented at [MLCAD 2024](https://mlcad.org/symposium/2024/)!
 
-I am a recipient of several awards, including the Best Paper Award at MLCAD, the DAC Young Fellow Travel Grant, the MLCAD Student Travel Grant, the Fulton Fellows Fellowship, and the Ferdinand A. Stanchi Fellowship. I have given a tutorial talk at ASP-DAC and organized a contest at ICCAD. I am also the primary or contributing author of over nine papers, including works presented at ICCAD, MLCAD, ICLAD, VTS, and ISLPED.
+#**Education**
+* Ph.D. in Electrical Engineering, 2023-Present
+** Arizona State University, USA
+
+* M.S. in Electrical Engineering, 2023
+** Nationl Taiwan University of Science and Technology (Taiwan tech, NTUST), Taiwan
+
+* B.S. in Electrical Engineering, 2020
+** Nationl Taiwan University of Science and Technology (Taiwan tech, NTUST), Taiwan
 
 
-My main research areas are:
 
-* Generative AI-based EDA enablement and solutions, particularly in physical design
-* Open-source EDA tools
+
