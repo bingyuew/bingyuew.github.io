@@ -21,13 +21,13 @@ For detailed descriptions: [CV (as of June, 2025)](https://bingyuew.github.io/fi
 
 # Education
 
-* Ph.D. in Electrical Engineering, 2023-Present
+* Ph.D. in Electrical Engineering, *2023-Present*
   * Arizona State University, USA
 
-* M.S. in Electrical Engineering, 2023
+* M.S. in Electrical Engineering, *2023*
   * National Taiwan University of Science and Technology (Taiwan Tech, NTUST), Taiwan
 
-* B.S. in Electrical Engineering, 2020
+* B.S. in Electrical Engineering, *2020*
   * National Taiwan University of Science and Technology (Taiwan Tech, NTUST), Taiwan
 
 
