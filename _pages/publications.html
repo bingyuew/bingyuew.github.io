@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}" style="text-decoration: none;">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -25,7 +25,7 @@ author_profile: true
         {% assign title_shown = true %}
       {% endunless %}
       <div class="publication-entry">
-        <span class="publication-number">{{ counter }}.</span> {% include archive-single.html %}
+        <span class="publication-number" style="text-decoration: none;">{{ counter }}.</span> {% include archive-single.html %}
       </div>
       {% assign counter = counter | plus: 1 %}
     {% endfor %}
@@ -34,7 +34,7 @@ author_profile: true
   {% assign counter = 1 %}
   {% for post in site.publications reversed %}
     <div class="publication-entry">
-      <span class="publication-number">{{ counter }}.</span> {% include archive-single.html %}
+      <span class="publication-number" style="text-decoration: none;">{{ counter }}.</span> {% include archive-single.html %}
     </div>
     {% assign counter = counter | plus: 1 %}
   {% endfor %}
