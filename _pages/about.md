@@ -13,7 +13,7 @@ For detailed descriptions: [CV (as of June, 2025)](https://bingyuew.github.io/fi
 
 # Recent News
 
-✨ **[Jun, 2025]** Our paper "OpenROAD Agent: An Intelligent Self-Correcting Script Generator for OpenROAD" was presented at [ICLAD 2025](https://iclad.ai/)!
+✨ **[Jun, 2025]** Our paper "OpenROAD Agent: An Intelligent Self-Correcting Script Generator for OpenROAD" was presented at <a href="https://iclad.ai/" style="text-decoration: none;">ICLAD 2025</a>!
 
 ✨ **[Oct, 2024]** I served as a topic chair and presented the award for the [CAD Contest at ICCAD](https://www.iccad-contest.org/2024/) at ICCAD in Newark, NJ! [<span style="color: red;">(More info)</span>](https://bingyuew.github.io/talks/2024-10-31-iccad)
 
