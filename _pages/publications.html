@@ -43,34 +43,26 @@ author_profile: true
 {% endif %}
 
 <style>
-/* Make Publications list stay on the same line until screen width is exhausted */
-.archive {
-  max-width: none;     /* Remove theme's width restriction on .archive */
-  width: 100%;         /* Use full available width */
-}
-
 .publication-entry {
   display: flex;
   align-items: baseline;
-  flex-wrap: nowrap;   /* Don't wrap prematurely */
+  flex-wrap: wrap; /* allow content to wrap if needed */
 }
-
 .publication-number {
   margin-right: 8px;
   font-weight: bold;
   flex-shrink: 0;
   white-space: nowrap;
 }
-
-/* Allow content to wrap naturally based on screen width */
+/* Allow content to grow and wrap naturally */
 .publication-content {
   flex: 1;
-  min-width: 0;
-  word-break: break-word;
+  min-width: 0; /* allows content to shrink and wrap instead of overflowing */
+  word-break: break-word; /* breaks long words/URLs if necessary */
 }
-
-/* Keep link styling clean */
+/* Optional: clean link styling */
 .publication-content a {
   text-decoration: none;
 }
+
 </style>
