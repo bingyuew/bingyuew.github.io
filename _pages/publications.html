@@ -46,6 +46,7 @@ author_profile: true
 .publication-entry {
   display: flex;
   align-items: baseline;
+  flex-wrap: wrap; /* allow content to wrap if needed */
 }
 .publication-number {
   margin-right: 8px;
@@ -53,12 +54,15 @@ author_profile: true
   flex-shrink: 0;
   white-space: nowrap;
 }
-/* Make the title/content fill remaining space */
+/* Allow content to grow and wrap naturally */
 .publication-content {
   flex: 1;
-  white-space: nowrap;         /* Prevent line breaks */
+  min-width: 0; /* allows content to shrink and wrap instead of overflowing */
+  word-break: break-word; /* breaks long words/URLs if necessary */
 }
+/* Optional: clean link styling */
 .publication-content a {
   text-decoration: none;
 }
+
 </style>
