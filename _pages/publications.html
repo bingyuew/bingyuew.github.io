@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}" style="text-decoration: none;">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my papers on my <a href="{{site.author.googlescholar}}" style="text-decoration: none;">Google Scholar</a> profile.</div>
 {% endif %}
 
 {% include base_path %}
@@ -43,26 +43,34 @@ author_profile: true
 {% endif %}
 
 <style>
+/* Make Publications list stay on the same line until screen width is exhausted */
+.archive {
+  max-width: none;     /* Remove theme's width restriction on .archive */
+  width: 100%;         /* Use full available width */
+}
+
 .publication-entry {
   display: flex;
   align-items: baseline;
-  flex-wrap: wrap; /* allow content to wrap if needed */
+  flex-wrap: nowrap;   /* Don't wrap prematurely */
 }
+
 .publication-number {
   margin-right: 8px;
   font-weight: bold;
   flex-shrink: 0;
   white-space: nowrap;
 }
-/* Allow content to grow and wrap naturally */
+
+/* Allow content to wrap naturally based on screen width */
 .publication-content {
   flex: 1;
-  min-width: 0; /* allows content to shrink and wrap instead of overflowing */
-  word-break: break-word; /* breaks long words/URLs if necessary */
+  min-width: 0;
+  word-break: break-word;
 }
-/* Optional: clean link styling */
+
+/* Keep link styling clean */
 .publication-content a {
   text-decoration: none;
 }
-
 </style>
