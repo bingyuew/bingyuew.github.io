@@ -35,7 +35,8 @@ author_profile: true
   {% assign counter = 1 %}
   {% for post in site.publications reversed %}
     <div class="publication-entry">
-      <span class="publication-number">{{ counter }}.</span> {% include archive-single.html %}
+      <span class="publication-number">{{ counter }}.</span>
+      <span class="publication-content">{% include archive-single.html %}</span>
     </div>
     {% assign counter = counter | plus: 1 %}
   {% endfor %}
@@ -44,14 +45,12 @@ author_profile: true
 <style>
 .publication-entry {
   display: flex;
-  align-items: flex-start;
+  align-items: baseline;
 }
 .publication-number {
-  margin-right: 10px;
+  margin-right: 8px;
   font-weight: bold;
   flex-shrink: 0;
-}
-a {
-  text-decoration: none;
+  white-space: nowrap;
 }
 </style>
