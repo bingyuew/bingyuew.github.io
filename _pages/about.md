@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Bing-Yue Wu (吳秉曜), and you can call me Bing. I am currently a Ph.D. student in the <a href="https://ecee.engineering.asu.edu/" style="text-decoration: none;">School of Electrical, Computer and Energy Engineering at Arizona State University</a>, advised by Dr. <a href="https://faculty.engineering.asu.edu/vidyachhabria/" style="text-decoration: none;">Vidya A. Chhabria</a>. My research interests include **generative AI-based EDA enablement and solutions**, **large language model-powered EDA solutions**, and **open-source EDA tools**.
+Hi! I'm Bing-Yue Wu (吳秉曜), and you can call me Bing. I am currently a Ph.D. student in the ECEE department at <a href="https://ecee.engineering.asu.edu/" style="text-decoration: none;">Arizona State University</a>, advised by Dr. <a href="https://faculty.engineering.asu.edu/vidyachhabria/" style="text-decoration: none;">Vidya A. Chhabria</a>. My research interests include **generative AI-based electronic design automation (EDA) enablement and solutions**, **large language model-powered EDA solutions**, and **open-source EDA tools**.
 
 For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" style="text-decoration: none;">CV (as of June, 2025)</a>
-
 
 # Recent News
 
