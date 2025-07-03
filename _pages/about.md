@@ -18,7 +18,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 
 ✨ **[Oct, 2024]** I served as a topic chair and presented the award for the <a href="https://www.iccad-contest.org/2024/" style="text-decoration: none;">CAD Contest at ICCAD</a> at ICCAD in Newark, NJ! <a href="https://bingyuew.github.io/talks/2024-10-31-iccad" style="text-decoration: none; color: red">(More info)</a>
 
-✨ **[Sep, 2024]** Our paper "<a href="https://ieeexplore.ieee.org/document/10740242" style="text-decoration: none;">OpenROAD-Assistant: An Open-Source Large Language Model for Physical Design Tasks</a>" was presented at <a href="https://mlcad.org/symposium/2024/" style="text-decoration: none;">MLCAD 2024</a>
+✨ **[Sep, 2024]** Our paper "<a href="https://ieeexplore.ieee.org/document/10740242" style="text-decoration: none;">OpenROAD-Assistant: An Open-Source Large Language Model for Physical Design Tasks</a>" was presented at <a href="https://mlcad.org/symposium/2024/" style="text-decoration: none;">MLCAD 2024</a>!
 
 # Education
 
