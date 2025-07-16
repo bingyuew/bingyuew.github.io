@@ -37,6 +37,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
   <div>
     M.S. in Electrical Engineering, <i>2023</i><br>
     National Taiwan University of Science and Technology (Taiwan Tech, NTUST), Taiwan
+    <br>
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
