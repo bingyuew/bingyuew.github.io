@@ -23,7 +23,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="/images/asu_logo.png" alt="ASU logo" width="48" height="48">
+    <img src="/images/asu_logo.png" alt="ASU logo" width="48" height="12">
   </div>
   <div>
     Ph.D. in Electrical Engineering, <i>2023-Present</i><br>
@@ -32,7 +32,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="/images/ntust_logo.png" alt="NTUST logo" width="48" height="48">
+    <img src="/images/ntust_logo.png" alt="NTUST logo" width="48" height="12">
   </div>
   <div>
     M.S. in Electrical Engineering, <i>2023</i><br>
@@ -41,7 +41,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="/images/ntust_logo.png" alt="NTUST logo" width="48" height="48">
+    <img src="/images/ntust_logo.png" alt="NTUST logo" width="48" height="12">
   </div>
   <div>
     B.S. in Electrical Engineering, <i>2020</i><br>
