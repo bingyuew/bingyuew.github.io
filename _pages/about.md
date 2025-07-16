@@ -21,11 +21,11 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 
 # Education
 
-* Ph.D. in Electrical Engineering, *2023-Present*
+* <img src="/images/asu_logo.png" alt="ASU logo" width="24" style="vertical-align: middle;"> Ph.D. in Electrical Engineering, *2023-Present*
   * Arizona State University, USA
 
-* M.S. in Electrical Engineering, *2023*
+* <img src="/images/ntust_logo.png" alt="NTUST logo" width="24" style="vertical-align: middle;"> M.S. in Electrical Engineering, *2023*
   * National Taiwan University of Science and Technology (Taiwan Tech, NTUST), Taiwan
 
-* B.S. in Electrical Engineering, *2020*
+* <img src="/images/ntust_logo.png" alt="NTUST logo" width="24" style="vertical-align: middle;"> B.S. in Electrical Engineering, *2020*
   * National Taiwan University of Science and Technology (Taiwan Tech, NTUST), Taiwan
