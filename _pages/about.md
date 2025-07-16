@@ -21,11 +21,30 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 
 # Education
 
-* <img src="/images/asu_logo.png" alt="ASU logo" width="24" style="vertical-align: middle;"> Ph.D. in Electrical Engineering, *2023-Present*
-  * Arizona State University, USA
-
-* <img src="/images/ntust_logo.png" alt="NTUST logo" width="24" style="vertical-align: middle;"> M.S. in Electrical Engineering, *2023*
-  * National Taiwan University of Science and Technology (Taiwan Tech, NTUST), Taiwan
-
-* <img src="/images/ntust_logo.png" alt="NTUST logo" width="24" style="vertical-align: middle;"> B.S. in Electrical Engineering, *2020*
-  * National Taiwan University of Science and Technology (Taiwan Tech, NTUST), Taiwan
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="/images/asu_logo.png" alt="ASU logo" height="48">
+  </div>
+  <div>
+    Ph.D. in Electrical Engineering, <i>2023-Present</i><br>
+    Arizona State University, USA
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="/images/ntust_logo.png" alt="NTUST logo" height="48">
+  </div>
+  <div>
+    M.S. in Electrical Engineering, <i>2023</i><br>
+    National Taiwan University of Science and Technology (Taiwan Tech, NTUST), Taiwan
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="/images/ntust_logo.png" alt="NTUST logo" height="48">
+  </div>
+  <div>
+    B.S. in Electrical Engineering, <i>2020</i><br>
+    National Taiwan University of Science and Technology (Taiwan Tech, NTUST), Taiwan
+  </div>
+</div>
