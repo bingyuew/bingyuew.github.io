@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -25,7 +26,7 @@ author_profile: true
       {% endunless %}
       <div class="publication-entry">
         <span class="publication-number">{{ counter }}.</span>
-        <span class="publication-content">{% include archive-single.html %}</span>
+        <span class="publication-content">{% include archive.html %}</span>
       </div>
       {% assign counter = counter | plus: 1 %}
     {% endfor %}
@@ -35,7 +36,7 @@ author_profile: true
   {% for post in site.publications reversed %}
     <div class="publication-entry">
       <span class="publication-number">{{ counter }}.</span>
-      <span class="publication-content">{% include archive-single.html %}</span>
+      <span class="publication-content">{% include archive.html %}</span>
     </div>
     {% assign counter = counter | plus: 1 %}
   {% endfor %}
