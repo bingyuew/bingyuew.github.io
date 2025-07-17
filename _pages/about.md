@@ -28,8 +28,8 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 # Education
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
-  <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="/images/asu_logo.png" alt="ASU logo" width="188" height="60">
+  <div style="flex-shrink: 0; margin-right: 17px;">
+    <img src="/images/asu_logo.png" alt="ASU logo" width="175" height="60">
   </div>
   <div>
     Ph.D. in Electrical Engineering, <i>2023-Present</i><br>
