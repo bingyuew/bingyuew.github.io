@@ -12,7 +12,6 @@ Hi! I'm Bing-Yue Wu (吳秉曜), and you can call me Bing. I am currently a Ph.D
 For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" style="text-decoration: none;">CV (as of June, 2025)</a>
 <div>
 <br>
-<br>
 </div>
 # Recent News
 
@@ -22,7 +21,6 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 
 **[Sep, 2024]** Our paper "<a href="https://ieeexplore.ieee.org/document/10740242" style="text-decoration: none;">OpenROAD-Assistant: An Open-Source Large Language Model for Physical Design Tasks</a>" was presented at <a href="https://mlcad.org/symposium/2024/" style="text-decoration: none;">MLCAD 2024</a> in Snowbird, UT!
 <div>
-<br>
 <br>
 </div>
 # Education
