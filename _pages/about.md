@@ -15,6 +15,8 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 </div>
 # Recent News
 
+**[Sep, 2025]** Our paper "DALI-PD: Diffusion-based Synthetic Layout Heatmap Generation for ML in Physical Design" was accepted by <a href="https://www.aspdac.com/aspdac2026/index.html" style="text-decoration: none;">ASP-DAC 2026</a> in Hong Kong, CN!
+
 **[Jun, 2025]** Our paper "OpenROAD Agent: An Intelligent Self-Correcting Script Generator for OpenROAD" was presented at <a href="https://iclad.ai/" style="text-decoration: none;">ICLAD 2025</a> in Stanford, CA!
 
 **[Oct, 2024]** I served as a topic chair and presented the award for the <a href="https://www.iccad-contest.org/2024/" style="text-decoration: none;">CAD Contest at ICCAD</a> at <a href="https://2024.iccad.com/" style="text-decoration: none;">ICCAD 2024</a> in Newark, NJ! <a href="https://bingyuew.github.io/talks/2024-10-31-iccad" style="text-decoration: none; color: red">(More info)</a>
