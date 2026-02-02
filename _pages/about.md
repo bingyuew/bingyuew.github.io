@@ -11,7 +11,7 @@ Hi! I'm Bing-Yue Wu (吳秉曜), and you can call me Bing. I am currently a Ph.D
 
 I received M.S. and B.S. in electrical engineering, both from <a href="https://www.ntust.edu.tw/?Lang=en" style="text-decoration: none;">National Taiwan University of Science and Technology</a> (Taiwan Tech, NTUST), Taiwan. Previously, I was advised by Prof. <a href="https://syfang703.github.io/ntust-edalab/" style="text-decoration: none;">Shao-Yun Fang</a>.
 
-For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" style="text-decoration: none;">CV (as of Jan., 2026)</a>
+For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" style="text-decoration: none;">CV (as of Jan. 2026)</a>
 <div>
 <br>
 </div>
