@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Bing-Yue Wu (吳秉曜), and you can call me Bing. I am currently a Ph.D. student in the ECEE department at <a href="https://ecee.engineering.asu.edu/" style="text-decoration: none;">Arizona State University</a>, advised by Prof. <a href="https://faculty.engineering.asu.edu/vidyachhabria/" style="text-decoration: none;">Vidya A. Chhabria</a>. My research interests include **generative AI-based electronic design automation (EDA) enablement and solutions**, **large language model-powered EDA solutions**, and **open-source EDA tools**.
+Hi! I'm Bing-Yue Wu, and you can call me Bing. I am currently a Ph.D. student in the ECEE department at <a href="https://ecee.engineering.asu.edu/" style="text-decoration: none;">Arizona State University</a>, advised by Prof. <a href="https://faculty.engineering.asu.edu/vidyachhabria/" style="text-decoration: none;">Vidya A. Chhabria</a>. My research interests include **generative AI-based electronic design automation (EDA) enablement and solutions**, **large language model-powered EDA solutions**, and **open-source EDA tools**.
 
 I received M.S. and B.S. in electrical engineering, both from <a href="https://www.ntust.edu.tw/?Lang=en" style="text-decoration: none;">National Taiwan University of Science and Technology</a> (Taiwan Tech, NTUST), Taiwan. Previously, I was advised by Prof. <a href="https://syfang703.github.io/ntust-edalab/" style="text-decoration: none;">Shao-Yun Fang</a>.
 
@@ -17,13 +17,14 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 </div>
 # Recent News
 
-**[Sep, 2025]** Our paper "<a href="https://arxiv.org/abs/2507.10606" style="text-decoration: none;">DALI-PD: Diffusion-based Synthetic Layout Heatmap Generation for ML in Physical Design</a>" was accepted by <a href="https://www.aspdac.com/aspdac2026/index.html" style="text-decoration: none;">ASP-DAC 2026</a> in Hong Kong, CN!
+**[May 2026]** <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america" style="text-decoration: none;">Qualcomm Innovation Fellowship</a> winner with <a href="https://www.linkedin.com/in/atmadipdey/" style="text-decoration: none;">Atmadip Dey</a> from ASU. Grateful for the support from our advisors and excited to work on this project!
+
+**[Sep. 2025]** Our paper, "<a href="https://ieeexplore.ieee.org/abstract/document/11420621" style="text-decoration: none;">DALI-PD: Diffusion-based Synthetic Layout Heatmap Generation for ML in Physical Design</a>," was accepted at <a href="https://www.aspdac.com/aspdac2026/index.html" style="text-decoration: none;">ASP-DAC 2026</a>, and I presented it in Hong Kong, China!
 
 **[Jun, 2025]** Our paper "<a href="https://ieeexplore.ieee.org/document/11106006" style="text-decoration: none;">OpenROAD Agent: An Intelligent Self-Correcting Script Generator for OpenROAD</a>" was presented at <a href="https://iclad.ai/" style="text-decoration: none;">ICLAD 2025</a> in Stanford, CA!
 
 **[Oct, 2024]** I served as a topic chair and presented the award for the <a href="https://www.iccad-contest.org/2024/" style="text-decoration: none;">CAD Contest at ICCAD</a> at <a href="https://2024.iccad.com/" style="text-decoration: none;">ICCAD 2024</a> in Newark, NJ! <a href="https://bingyuew.github.io/talks/2024-10-31-iccad" style="text-decoration: none; color: red">(More info)</a>
 
-**[Sep, 2024]** Our paper "<a href="https://ieeexplore.ieee.org/document/10740242" style="text-decoration: none;">OpenROAD-Assistant: An Open-Source Large Language Model for Physical Design Tasks</a>" was presented at <a href="https://mlcad.org/symposium/2024/" style="text-decoration: none;">MLCAD 2024</a> in Snowbird, UT!
 <div>
 <br>
 </div>
