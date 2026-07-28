@@ -17,11 +17,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 </div>
 <style>
 .emoji-list {
-  list-style: none;
-  padding-left: 0;
-}
-.emoji-list li::before {
-  content: "✨ ";
+  padding-left: 1.2em;
 }
 .news-year {
   margin-bottom: 10px;
@@ -34,8 +30,8 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
   margin-bottom: 6px;
 }
 .news-2026 {
-  background-color: #FFFFE5;
-  border-left: 4px solid #F6DD3B;
+  background-color: #F5F0E6;
+  border-left: 4px solid #C4B59A;
 }
 .news-2025 {
   background-color: #f6f6f6;
