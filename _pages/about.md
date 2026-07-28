@@ -60,7 +60,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 <details class="news-year news-2026" open>
 <summary>2026</summary>
 <ul class="emoji-list">
-   <li><strong>[Sep. 2026]</strong> I will be in Austin, TX this fall as an intern at <a class="news-highlight" href="https://tenstorrent.com/">Tenstorrent!</a></li>
+   <li><strong>[Sep. 2026]</strong> I will be in Austin, TX this fall as an intern at <a class="news-highlight" href="https://tenstorrent.com/">Tenstorrent</a>!</li>
 
   <li><strong>[Jul. 2026]</strong> Our paper "<a class="news-paper" href="/publication/2026-04-24-dac">Toward Agentic Solutions for DRC Challenges in Digital VLSI Design</a>," was presented at <a class="news-conf" href="https://63dac.conference-program.com/presentation/?id=SSSN108&sess=sess251">DAC</a>, in Long Beach, CA!</li>
 
