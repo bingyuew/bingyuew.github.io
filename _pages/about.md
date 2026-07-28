@@ -43,10 +43,13 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 }
 .news-year a.news-paper {
   color: inherit;
-  text-decoration: underline;
+  text-decoration: none;
   font-style: italic;
 }
 .news-year a.news-conf {
+  text-decoration: none;
+}
+.news-year a.news-highlight {
   font-weight: bold;
   text-decoration: none;
 }
@@ -57,13 +60,13 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 <details class="news-year news-2026" open>
 <summary>2026</summary>
 <ul class="emoji-list">
-   <li><strong>[Sep. 2026]</strong> I will be in Austin, TX this fall as an intern at <a href="https://tenstorrent.com/" style="text-decoration: none;">Tenstorrent!</a></li>
+   <li><strong>[Sep. 2026]</strong> I will be in Austin, TX this fall as an intern at <a class="news-highlight" href="https://tenstorrent.com/">Tenstorrent!</a></li>
 
   <li><strong>[Jul. 2026]</strong> Our paper "<a class="news-paper" href="/publication/2026-04-24-dac">Toward Agentic Solutions for DRC Challenges in Digital VLSI Design</a>," was presented at <a class="news-conf" href="https://63dac.conference-program.com/presentation/?id=SSSN108&sess=sess251">DAC</a>, in Long Beach, CA!</li>
 
    <li><strong>[Jun. 2026]</strong> Our paper "<a class="news-paper" href="/publication/2026-05-20-glsvlsi">CAPO: Certification-Guided Agentic Workflow for Physical Design Parameter Optimization</a>," was presented at <a class="news-conf" href="https://www.glsvlsi.org/">GLSVLSI</a>, in Canandaigua, NY!</li> 
 
-  <li><strong>[May 2026]</strong> I was selected as a winner of the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america" style="text-decoration: none;">Qualcomm Innovation Fellowship</a> with <a href="https://www.linkedin.com/in/atmadipdey/" style="text-decoration: none;">Atmadip Dey</a> from ASU. Grateful for the support from our advisor!</li>
+  <li><strong>[May 2026]</strong> I was selected as a winner of the <a class="news-highlight" href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america">Qualcomm Innovation Fellowship</a> with <a href="https://www.linkedin.com/in/atmadipdey/" style="text-decoration: none;">Atmadip Dey</a> from ASU. Grateful for the support from our advisor!</li>
 
    <li><strong>[Apr. 2026]</strong> Our paper "<a class="news-paper" href="/publication/2026-04-22-date">Focus Session: Large Language Models in Physical Design: From Data Generation to Intelligent Agents</a>," was presented at <a class="news-conf" href="https://www.date-conference.com/">DATE</a>, in Verona, Italy!</li> 
 
@@ -83,7 +86,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 <details class="news-year news-2024">
 <summary>2024</summary>
 <ul class="emoji-list">
-  <li><strong>[Oct. 2024]</strong> I served as a topic chair and presented the award for the <a href="https://www.iccad-contest.org/2024/" style="text-decoration: none;">CAD Contest at ICCAD</a> at <a class="news-conf" href="https://2024.iccad.com/">ICCAD 2024</a> in Newark, NJ! <a href="https://bingyuew.github.io/talks/2024-10-31-iccad" style="text-decoration: none; color: red">(More info)</a></li>
+  <li><strong>[Oct. 2024]</strong> I organized Problem C for the <a class="news-highlight" href="https://www.iccad-contest.org/2024/">CAD Contest at ICCAD</a>, served as a topic chair, and presented the awards at <a class="news-conf" href="https://2024.iccad.com/">ICCAD</a> in Newark, NJ! <a href="https://bingyuew.github.io/talks/2024-10-31-iccad" style="text-decoration: none; color: red">(More info)</a></li> 
 
   <li><strong>[Oct. 2024]</strong> Our paper "<a class="news-paper" href="/publication/2024-10-31-iccad-1">Strengthening the Foundations for IC Physical Design and ML EDA Research</a>" was presented at <a class="news-conf" href="https://2024.iccad.com/">ICCAD</a> in Newark, NJ!</li>
 
@@ -99,7 +102,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 
   <li><strong>[Apr. 2024]</strong> Our paper "<a class="news-paper" href="/publication/2024-04-22-vts">OpenROAD and CircuitOps: Infrastructure for ML EDA Research and Education</a>" was presented at <a class="news-conf" href="https://tttc-vts.org/public_html/new/2024/index.html">VTS</a> in Tempe, AZ!</li>
 
-  <li><strong>[Jan. 2024]</strong> I gave a technical tutorial on <a href="https://www.aspdac.com/aspdac2024/tutorial/index.html" style="text-decoration: none;">NVIDIA CircuitOps and the OpenROAD Python API</a> at <a class="news-conf" href="https://www.aspdac.com/aspdac2024/">ASP-DAC</a> in Incheon, South Korea! <a href="/talks/2024-01-22-aspdac" style="text-decoration: none; color: red">(More info)</a></li>
+  <li><strong>[Jan. 2024]</strong> I gave a technical tutorial on <a class="news-highlight" href="https://www.aspdac.com/aspdac2024/tutorial/index.html">NVIDIA CircuitOps and the OpenROAD Python API</a> at <a class="news-conf" href="https://www.aspdac.com/aspdac2024/">ASP-DAC</a> in Incheon, South Korea! <a href="/talks/2024-01-22-aspdac" style="text-decoration: none; color: red">(More info)</a></li>
 </ul>
 </details>
 
