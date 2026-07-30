@@ -66,7 +66,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 
    <li><strong>[Jun. 2026]</strong> Our paper "<a class="news-paper" href="/publication/2026-05-20-glsvlsi">CAPO: Certification-Guided Agentic Workflow for Physical Design Parameter Optimization</a>," was presented at <a class="news-conf" href="https://www.glsvlsi.org/">GLSVLSI</a>, in Canandaigua, NY!</li> 
 
-  <li><strong>[May 2026]</strong> I was selected as a winner of the <a class="news-highlight" href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america">Qualcomm Innovation Fellowship</a> with <a href="https://www.linkedin.com/in/atmadipdey/" style="text-decoration: none;">Atmadip Dey</a> from ASU. Grateful for the support from our advisor!</li>
+  <li style="color: red;"><strong>[May 2026]</strong> I was selected as a winner of the <a class="news-highlight" href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america" style="color: red;">Qualcomm Innovation Fellowship</a> with <a href="https://www.linkedin.com/in/atmadipdey/" style="text-decoration: none; color: red;">Atmadip Dey</a> from ASU. Grateful for the support from our advisor!</li>
 
    <li><strong>[Apr. 2026]</strong> Our paper "<a class="news-paper" href="/publication/2026-04-22-date">Focus Session: Large Language Models in Physical Design: From Data Generation to Intelligent Agents</a>," was presented at <a class="news-conf" href="https://www.date-conference.com/">DATE</a>, in Verona, Italy!</li> 
 
