@@ -117,7 +117,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
   </div>
   <div>
     Doctoral Studies in Electrical Engineering, <i>2023-2026</i><br>
-    Ph.D. candidacy achieved, 2026
+    Ph.D. candidacy achieved, 2026<br>
     Arizona State University, USA
   </div>
 </div>
