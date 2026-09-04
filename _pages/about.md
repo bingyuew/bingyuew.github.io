@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Bing-Yue Wu, and you can call me Bing. I am currently a Ph.D. candidate in the ECEE department at <a href="https://ecee.engineering.asu.edu/" style="text-decoration: none;">Arizona State University</a>, advised by Prof. <a href="https://faculty.engineering.asu.edu/vidyachhabria/" style="text-decoration: none;">Vidya A. Chhabria</a>. My research interests include **generative AI-based electronic design automation (EDA) enablement and solutions**, **large language model-powered EDA solutions**, and **open-source EDA tools**.
+Hi! I'm Bing-Yue Wu, and you can call me Bing. I am currently a Ph.D. candidate in the ECEE department at <a href="https://ecee.engineering.asu.edu/" style="text-decoration: none;">Arizona State University</a>. My research interests include **generative AI-based electronic design automation (EDA) enablement and solutions**, **large language model-powered EDA solutions**, and **open-source EDA tools**.
 
 I received M.S. and B.S. in electrical engineering, both from <a href="https://www.ntust.edu.tw/?Lang=en" style="text-decoration: none;">National Taiwan University of Science and Technology</a> (Taiwan Tech, NTUST), Taiwan. Previously, I was advised by Prof. <a href="https://syfang703.github.io/ntust-edalab/" style="text-decoration: none;">Shao-Yun Fang</a>.
 
@@ -116,7 +116,8 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
     <img src="/images/asu_logo.png" alt="ASU logo" width="148" height="60">
   </div>
   <div>
-    Ph.D. in Electrical Engineering, <i>2023-Present</i><br>
+    Doctoral Studies in Electrical Engineering, <i>2023-2026</i><br>
+    Ph.D. candidacy achieved, 2026
     Arizona State University, USA
   </div>
 </div>
