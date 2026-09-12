@@ -60,7 +60,7 @@ For detailed descriptions: <a href="https://bingyuew.github.io/files/CV.pdf" sty
 <details class="news-year news-2026" open>
 <summary>2026</summary>
 <ul class="emoji-list">
-  <li><strong>[Sep. 2026]</strong> Our paper "<a class="news-paper" href="/publication/2027-01-28-aspdac">EvoDRC: A Self-Evolving Agentic Framework for Automated DRC Violation Repair</a>" has been accepted to <a class="news-conf" href="https://www.aspdac.com/aspdac2027/">ASP-DAC 2027</a>, and I will present it in Tokyo, Japan!</li>
+  <li><strong>[Sep. 2026]</strong> Our paper "<a class="news-paper" href="/publication/2027-01-28-aspdac">EvoDRC: A Self-Evolving Agentic Framework for Automated DRC Violation Repair</a>" has been accepted to <a class="news-conf" href="https://www.aspdac.com/aspdac2027/">ASP-DAC</a>, and I will present it in Tokyo, Japan!</li>
 
   <li><strong>[Sep. 2026]</strong> I will be in Austin, TX this fall as an intern at <a class="news-highlight" href="https://tenstorrent.com/">Tenstorrent</a>!</li>
 
